@@ -1,10 +1,5 @@
-# Wireshark-Automated-Report
 
-Here's a revised version with added formatting elements to make it GitHub-friendly:
-
----
-
-# Packet Report Analysis
+# Wireshark Packet Report Analysis
 
 ---
 
